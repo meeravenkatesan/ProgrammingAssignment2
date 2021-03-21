@@ -1,4 +1,5 @@
 ## Submission for Week 3 of R Programming 
+## Forgot to stage befor committing and pushing
 
 ## makeCacheMatrix() has a list of functions to modify a matrix and stores
 ## the result of the modified matrix into the cache in order to reduce
